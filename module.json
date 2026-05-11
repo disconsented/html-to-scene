@@ -45,8 +45,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/Javiondox/html-to-scene/releases/latest/download/module.json",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/disconsented/html-to-scene/refs/heads/main/module.json",
+  "download": "https://github.com/disconsented/html-to-scene/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
