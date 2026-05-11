@@ -46,7 +46,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/disconsented/html-to-scene/refs/heads/main/module.json",
-  "download": "https://github.com/disconsented/html-to-scene/archive/refs/heads/main.zip",
+  "download": "",
   "protected": false,
   "coreTranslation": false,
   "library": false
